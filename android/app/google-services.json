@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794985070865",
+    "firebase_url": "https://nerasaye-276917.firebaseio.com",
+    "project_id": "nerasaye-276917",
+    "storage_bucket": "nerasaye-276917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794985070865:android:1b1920977fb349751e0cb0",
+        "android_client_info": {
+          "package_name": "com.nerasaye.nerasaye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794985070865-oi76j3ublb6ar3fpnhquq0el6lhhla8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmhVDWuY32bz2fcefvBAuK0EYcmMVhU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794985070865-oi76j3ublb6ar3fpnhquq0el6lhhla8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794985070865-79c17v1ntk3p73kichirnoae9mgjk9p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nerasaye.nerasaye"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
